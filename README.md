@@ -1,4 +1,5 @@
 ## Hi there 👋
+![snake gif](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Merrass/Merrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

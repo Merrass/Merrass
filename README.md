@@ -19,6 +19,22 @@
 
 ---
 
+<details>
+  <summary><h3>📕 Proyectos realizados</h3></summary>
+  <p align="left" dir="auto">
+    <a href="https://github.com/Merrass/Python_Encryption_Script">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrass&repo=Python_Encryption_Script&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=8" alt="Python_Encryption_Script" width="33%">
+    </a>
+    <a href="https://github.com/Merrass/Bind_Configuration_Script">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrass&repo=Bind_Configuration_Script&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=8" alt="Bind_Configuration_Script" width="33%">
+    </a>
+    <a href="https://github.com/Merrass/Network_Configuration_Script">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrass&repo=Network_Configuration_Script&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=8" alt="Network_Configuration_Script" width="33%">
+    </a>
+  </p>
+</details>
+
+---
 ### 📝 Latest Articles of my website
 - [Botnet with UFONet](https://merrass.github.io/merrassecurity/HTML/upcoming.html)
 - [HaProxy](https://merrass.github.io/merrassecurity/HTML/upcoming.html)

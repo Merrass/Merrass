@@ -20,7 +20,7 @@
 ---
 
 <details open>
-  <summary><h3>📕 Proyectos realizados</h3></summary>
+  <summary><h3>📕 Featured Proyects</h3></summary>
   <p align="left" dir="auto">
     <a href="https://github.com/Merrass/Python_Encryption_Script">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merrass&repo=Python_Encryption_Script&theme=react&bg_color=1a1b27&title_color=00FFFF&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=8" alt="Python_Encryption_Script" width="33%">

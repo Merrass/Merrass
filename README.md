@@ -19,6 +19,15 @@
 
 ---
 
+### 📝 Latest Articles
+- [Botnet with UFONet](https://merrass.github.io/merrassecurity/HTML/upcoming.html)
+- [HaProxy](https://merrass.github.io/merrassecurity/HTML/upcoming.html)
+- [Encryption Script with Python](https://merrass.github.io/merrassecurity/HTML/encryption.html)
+- [Web Server ESP32](https://merrass.github.io/merrassecurity/HTML/webserver.html)
+- [Networking Script with Bash](https://merrass.github.io/merrassecurity/HTML/automatednetwork.html)
+
+---
+
 ### 🔧 Tech & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,windows,python" />

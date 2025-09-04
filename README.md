@@ -3,7 +3,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F718&lines=Hello,+I'm+Merrass;CyberSecurity+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+                  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F718&lines=Hello,+I'm+Merrass;CyberSecurity+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
 ---
 

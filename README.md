@@ -19,7 +19,7 @@
 
 ---
 
-<details>
+<details open>
   <summary><h3>📕 Proyectos realizados</h3></summary>
   <p align="left" dir="auto">
     <a href="https://github.com/Merrass/Python_Encryption_Script">

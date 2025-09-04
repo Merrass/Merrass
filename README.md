@@ -15,7 +15,7 @@
 ---
 
 ### 📂 Portfolio  
-- [merrassecurity](https://github.com/Merrass/merrassecurity) – my personal website  
+- [merrassecurity](https://merrass.github.io/merrassecurity/) – my personal website  
 
 ---
 
@@ -27,8 +27,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Merrass&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merrass&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Merrass&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merrass&layout=compact&theme=tokyonight)
 
 ---
 
